@@ -1,0 +1,23 @@
+# Compiled class files
+bin/
+*.class
+
+# SQLite runtime database (auto-generated at startup)
+tsatms.db
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Generated reports
+reports/
+*.csv
+
+# Logs
+*.log
